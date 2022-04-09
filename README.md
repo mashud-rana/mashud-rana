@@ -37,5 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashud-rana&" alt="mashud-rana" /></p>
 
-![snake gif]
-(https://github.com/mashud-rana/mashud-rana/blob/output/github-contribution-grid-snake.gif)
+
