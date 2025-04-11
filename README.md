@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mashud-rana.github.io](https://mashud-rana.github.io)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, JQuery, PHP, MySql, Laravel, Vue, Node js, Express js, CouchDB, MongoDB**
+- 💬 Ask me about **HTML5, CSS3, Javascript, JQuery, PHP, MySql, Laravel, Vue, Node js, Express js, CouchDB, MongoDB, AWS, Jenkins, Ansible **
 
 - 📫 How to reach me **mashud624496@gmail.com**
 
