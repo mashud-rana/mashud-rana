@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Md. Mashud Rana</h1>
 <h3 align="center">I am a challenge taker. I have the ability to solve complicated problems with simple and unique ideas. I am expertise in Laravel, Vue, javascript, and raw PHP makes me more hungry to learn more and improve my skills. I am a long experience in developing web applications and working as a backend developer.</h3>
 
@@ -36,5 +38,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashud-rana&show_icons=true&locale=en" alt="mashud-rana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashud-rana&" alt="mashud-rana" /></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Mashud%20Rana-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashud-rana-bd)
+
+
+              
 
 
