@@ -11,13 +11,14 @@
 
 - 🌱 I’m currently learning **Express js.**
 
-- 👨‍💻 All of my projects are available at [https://mashud-rana.github.io](https://mashud-rana.github.io)
+** - 👨‍💻 All of my projects are available at [https://mashud-rana.github.io](https://mashud-rana.github.io) **
+- 👨‍💻 All of my projects are available at [https://mashud-rana.github.io](https://mashud-rana.vercel.app)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, JQuery, PHP, MySql, Laravel, Vue, Node js, Express js, CouchDB, MongoDB, AWS, Jenkins, Ansible **
 
 - 📫 How to reach me **mashud624496@gmail.com**
 
-- 📄 Know about my experiences [https://mashud-rana.github.io](https://mashud-rana.github.io)
+- 📄 Know about my experiences [https://mashud-rana.github.io](https://mashud-rana.vercel.app)
 
 - ⚡ Fun fact **I think I am funny**
 
